@@ -1,0 +1,14 @@
+[
+  {
+    "id": "tech-1",
+    "title": "Nuevas funciones en React",
+    "date": "2024-08-01",
+    "content": "Resumen breve de las novedades del ecosistema React y cómo impactan el desarrollo frontend."
+  },
+  {
+    "id": "tech-2",
+    "title": "Vite como estándar de herramientas",
+    "date": "2024-07-15",
+    "content": "Por qué Vite reemplazó a Create React App como punto de partida para nuevos proyectos."
+  }
+]

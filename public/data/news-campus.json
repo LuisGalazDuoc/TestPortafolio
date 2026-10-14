@@ -1,0 +1,14 @@
+[
+  {
+    "id": "campus-1",
+    "title": "Inicio del semestre",
+    "date": "2024-08-05",
+    "content": "Comienzan las clases de Desarrollo Fullstack II con foco en pruebas unitarias."
+  },
+  {
+    "id": "campus-2",
+    "title": "Taller de testing frontend",
+    "date": "2024-07-20",
+    "content": "Taller práctico sobre pruebas de componentes y cobertura de código."
+  }
+]

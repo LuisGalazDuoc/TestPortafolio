@@ -1,0 +1,10 @@
+{
+  "name": "Luis Galaz",
+  "role": "Estudiante de Informática | Entusiasta de la Tecnología",
+  "bio": "Bienvenido a mi portafolio personal, donde comparto mis proyectos y noticias recientes. ¡Explora y conoce más sobre mi trabajo!",
+  "photo": "images/profile.jpg",
+  "photoAlt": "Fotografía profesional de Luis Galaz",
+  "socials": [
+    { "label": "GitHub", "url": "https://github.com/LuisGalazDuoc" }
+  ]
+}

@@ -1,0 +1,29 @@
+[
+  {
+    "id": "proyecto-1",
+    "title": "Proyecto 1",
+    "description": "Aplicación web responsiva que consume una API REST y presenta los datos.",
+    "technologies": ["React", "Bootstrap", "Vite"],
+    "image": "images/proyecto1.jpg",
+    "imageAlt": "Captura de pantalla del Proyecto 1",
+    "url": "https://github.com/ManuelAlcachofa/FS-Armatelo"
+  },
+  {
+    "id": "proyecto-2",
+    "title": "Proyecto 2",
+    "description": "API en Java con autenticación y persistencia en base de datos relacional.",
+    "technologies": ["Java", "Springboot", "MySQL"],
+    "image": "images/proyecto2.jpg",
+    "imageAlt": "Captura de pantalla del Proyecto 2",
+    "url": "https://github.com/LuisGalazDuoc/Pizzeria"
+  },
+  {
+    "id": "proyecto-3",
+    "title": "Proyecto 3",
+    "description": "Panel de control con gráficos interactivos y pruebas unitarias automatizadas.",
+    "technologies": ["CMake", "C", "C++"],
+    "image": "images/proyecto3.jpg",
+    "imageAlt": "Captura de pantalla del Proyecto 3",
+    "url": "https://github.com/LuisGalazDuoc/Pato"
+  }
+]
